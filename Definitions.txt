@@ -1,0 +1,32 @@
+// 1. HTTP
+// THis is used to create a HTTP server that can listen to server ports and respond back to the client.
+
+// 2. events
+// Is used to event driven applications. Registers all events (asynchronous & syncrhonous) and then calls them synchronously.
+
+// 3. filesystem
+// Used to work with file system. Enables you to read, create, update, delete & rename files.
+
+// 4. console
+// A global object that can be used to print different types of messages.
+
+// 5. buffer
+// A global object that gives tools to handle binary data streams.
+
+// 6. globals
+// Built in global indentifiers that are visible everywhere or are visible in every moudle (pseudo-globals)
+
+// 7. stream
+// An interface for dealing with streaming data.
+
+// 8. url
+// Module that enables you to be able to work with url's. One of many options you can do is parse the url and break into parts.
+
+// 9. path
+// Enables the developer to be able to work with the file system. 
+
+// 10. os
+// Module that lets you interact with the Operating System.
+
+// 11. process
+// A global object that is an instance of the EventEmitter.
